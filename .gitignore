@@ -1,0 +1,14 @@
+*.m4
+*.log
+*.in
+*.deps
+depcomp
+stamp-h1
+Makefile
+autom4te.cache/
+config.status
+install-sh
+config.h
+configure
+missing
+
