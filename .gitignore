@@ -11,4 +11,4 @@ install-sh
 config.h
 configure
 missing
-
+.python-version

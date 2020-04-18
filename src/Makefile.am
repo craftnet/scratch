@@ -1,3 +1,3 @@
-bin_PROGRAMS = hello
-hello_SOURCES = main.c
+bin_PROGRAMS = tcpd 
+tcpd_SOURCES = tcpd.c
 
